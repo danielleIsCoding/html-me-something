@@ -11,5 +11,26 @@ body {
     color: rgb(202, 40, 73);
 }
 
+header {
+    background-image: url(images/victory.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+h1 {
+    margin: 0;
+}
+
+.hero-text {
+    position: absolute;
+    width: 1140px;
+    top: 55%;
+    left: 63%;
+    transform: translate(-45%, -27%);
+    color: white;
+}
+
+
 
 
