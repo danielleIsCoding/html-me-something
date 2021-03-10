@@ -32,7 +32,8 @@ header {
 }
 
 h1 {
-    margin: 0;
+    margin-top: 0;
+    margin-bottom: 20px;
 }
 
 .hero-text {
@@ -87,11 +88,19 @@ h1 {
     padding: 10px 30px;
     font-weight: 300px;
     text-decoration: none;
-    
+    border-radius: 200px;
+    color: #fff;
+}
+
+.button-fill {
+    background-color: rgba(30, 143, 255, 0.561);
+   
 
 }
 
-
+.clear-button {
+    border: 1px solid rgba(30, 143, 255, 0.561);
+}
 
 
 
